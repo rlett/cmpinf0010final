@@ -1,6 +1,6 @@
 # cmpinf0010final - Evidence for Best Neighborhood in Pittsburgh
 ## Team M8
-We are **Team M8**: Alvyn Berg (apb62), Oliver Gladys, Radley Lettich.
+We are **Team M8**: Alvyn Berg (apb62), Oliver Gladys, Radley Lettich (ral109).
 
 ### Datasets
 Currently we have two datasets, one on crime and one on 311 calls. 
