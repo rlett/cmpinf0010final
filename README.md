@@ -6,6 +6,9 @@ We are presenting April 22.
 ### Datasets
 We collectively used 5 datasets.
 
+## Metrics / Abstract
+When dealing with metrics, we determined rankings for our individual groups, and summed them together. After analysis of Nature, Friendship was the best neighborhood. After analysis of crime, Mount Oliver was the best neighborhood. After analysis of 311 Calls, Mount Oliver was also the best neighborhood, but when summed together, Friendship was considered the best.
+
 # Neighborhoods
 - https://data.wprdc.org/dataset/neighborhoods2/resource/668d7238-cfd2-492e-b397-51a6e74182ff
 
